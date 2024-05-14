@@ -396,3 +396,18 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# MacOS Files
+Icon
+Icon?
+.DS_Store
+
+# LaTex Files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# https://github.com/github/gitignore/blob/main/TeX.gitignore
