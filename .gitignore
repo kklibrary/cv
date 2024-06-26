@@ -402,6 +402,9 @@ Icon
 Icon?
 .DS_Store
 
+# Prefect Files
+.prefectignore
+
 # LaTex Files
 *.aux
 *.fdb_latexmk
